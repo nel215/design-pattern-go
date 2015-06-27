@@ -1,4 +1,4 @@
-package book
+package main
 
 // Book
 type Book struct {
